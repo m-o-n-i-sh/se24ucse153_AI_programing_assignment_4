@@ -1,6 +1,7 @@
 # Map Coloring using CSP (Australia)
 ##  Problem Statement
-Implement the Map Coloring problem using CSP for the seven principal states and territories of Australia namely: WA, NT, Queensland, SA, NSW, V, T.
+**Implement the Map Coloring problem using CSP for the seven principal states and territories of Australia namely: WA, NT, Queensland, SA, NSW, V, T.**
+
 ---
 ## Techniques Used
 The solution uses **Backtracking Search with heuristics**:
@@ -22,7 +23,7 @@ The solution uses **Backtracking Search with heuristics**:
 ```bash
 python map_coloring_aus.py
 ```
-⸻
+---
 ## Sample Output
 ```
 Solution:
@@ -44,8 +45,6 @@ Backtracks     : 0
 Total Constraints: 18
 Execution Time: 0.000049 seconds
 ```
-
-⸻
 
 
 
